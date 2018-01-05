@@ -1,0 +1,8 @@
+---
+layout: "prose"
+title: "FG Cafe 90"
+author: "Leland Reardon"
+---
+In a cafe on  
+The first-and-a-halfth level,  
+The barista's bald.
