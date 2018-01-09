@@ -1,0 +1,15 @@
+---
+layout: "sim"
+title: "10 Dustmites on a 20x20 Torus"
+author: "Leland Reardon"
+---
+This is the first simulation turned vidm file.
+Each green triangle represents a live dustmite.
+Dustmites move about the world eating dust and expending energy.
+Each dust eaten provides the mite with 2 energy.
+Each step uses one energy.
+When a dustmite runs out of energy it dies.
+Dead dustmites are red and don't move.
+
+Note:
+The video is running at 30 frames per second, so though it looks like all the dustmites die at the same time, they actually don't.
