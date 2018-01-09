@@ -2,7 +2,7 @@
 layout: "sim"
 title: "10 Dustmites on a 20x20 Torus"
 author: "Leland Reardon"
-video_source: "/simsvids/10-mites-random-shades-5x5.webm"
+video_source: "simsvids/10-mites-random-shades-5x5.webm"
 ---
 This is the first simulation turned vidm file.
 Each green triangle represents a live dustmite.
